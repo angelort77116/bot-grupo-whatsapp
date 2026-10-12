@@ -1,0 +1,13 @@
+{
+"name": "bot-grupo-whatsapp",
+"version": "1.0.0",
+"description": "Bot de WhatsApp para grupos",
+"main": "bot.js",
+"scripts": {
+"start": "node bot.js"
+},
+"dependencies": {
+"whatsapp-web.js": "^1.34.1",
+"qrcode-terminal": "^0.12.0"
+}
+}
